@@ -1,0 +1,9 @@
+G:\Project\Csharp_Project\AxonBody3Rec\AxonBody3Record\bin\Debug\AxonBody3Record.Client.net.dll
+G:\Project\Csharp_Project\AxonBody3Rec\AxonBody3Record\bin\Debug\AxonBody3Record.Client.net.pdb
+G:\Project\Csharp_Project\AxonBody3Rec\AxonBody3Record\bin\Debug\CitizenFX.Core.Client.dll
+G:\Project\Csharp_Project\AxonBody3Rec\AxonBody3Record\bin\Debug\CitizenFX.Core.Client.xml
+G:\Project\Csharp_Project\AxonBody3Rec\AxonBody3Record\obj\Debug\AxonBody3Record.csproj.AssemblyReference.cache
+G:\Project\Csharp_Project\AxonBody3Rec\AxonBody3Record\obj\Debug\AxonBody3Record.csproj.CoreCompileInputs.cache
+G:\Project\Csharp_Project\AxonBody3Rec\AxonBody3Record\obj\Debug\AxonBody3Record.csproj.CopyComplete
+G:\Project\Csharp_Project\AxonBody3Rec\AxonBody3Record\obj\Debug\AxonBody3Record.Client.net.dll
+G:\Project\Csharp_Project\AxonBody3Rec\AxonBody3Record\obj\Debug\AxonBody3Record.Client.net.pdb
